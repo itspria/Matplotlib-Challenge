@@ -1,4 +1,7 @@
 ## Analysis of the pharmaceuticals data with Pandas and Matplotlib
+### Technologies Used
+- Pandas
+- Matplotlib
 
 ### Procedure
 [-] Data Cleaning - Ensured there are no duplicate data in the dataset. Checked for duplicate Mouse IDs and removed if any.
